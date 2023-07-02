@@ -1,1 +1,20 @@
-test
+google binary
+protobuf
+https://appmaster.io/ja/blog/protobuftoha
+
+KNN
+https://dev.classmethod.jp/articles/2017ad_20171218_knn/
+
+k-m
+教師なし
+
+pca
+次元削減
+
+fm
+https://qiita.com/s_katagiri/items/d630685dd2fe2627ecd3
+
+
+https://aws.amazon.com/jp/blogs/news/new-introducing-sagemaker-training-compiler/
+
+MLeap は、Spark でトレーニングされたパイプラインをシリアル化し、JVM ベースの API サーバーにデプロイし、リアルタイムの1回限りのリクエストを実行するように設計されたオープンソースの Spark パッケージです。
